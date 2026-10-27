@@ -1,6 +1,6 @@
 # 息吹 (ibuki) — organism autonomy R2 gap-closure substrate
 
-Canonical repository: `etzhayyim/actor-ibuki`. Ibuki is the bounded autonomy
+Canonical repository: `cloud-itonami/actor-ibuki`. Ibuki is the bounded autonomy
 substrate organ of the Tamaki-centered Etzhayyim artificial organism. It owns
 heartbeat, durable local state, and governed outward-envelope preparation; it
 does not replace Tamaki's organism authority or bypass member signatures. The
